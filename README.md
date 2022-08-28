@@ -1,8 +1,8 @@
 
 <img align="right" width = '600' alt="Coding" src="https://media-exp1.licdn.com/dms/image/C4D16AQGOdWAiseHmhg/profile-displaybackgroundimage-shrink_350_1400/0/1661196807738?e=1666828800&v=beta&t=oNpaS00MyR9ibqV-pvvNsesxkjvWmQyXWQgpUmjtiRU"></p>
-<h1 align="center">Hello, Im Garv saxena</h1>
+<h1 align="center">Hello, Im Garv Saxena</h1>
 
-<h3 align="center">Student | Passionate About Technology | Aspiring Software Developer</h3>
+<h4 align="center">Student | Passionate About Technology | Aspiring Software Developer</h4>
 
 
 <p align="left">Hi there! I'm an aspiring software developer who loves to learn new technology. As a kid, I was interested in technology, especially computers. When I was in 4th Grade. I learned Microsoft PowerPoint and made my first PowerPoint slide on "Computer input/output devices", From that day I started my journey of learning new technologies and working on them.</p>
