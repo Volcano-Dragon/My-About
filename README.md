@@ -16,7 +16,7 @@ Familiar: Javascript, C++
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/garv saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garv saxena" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/volcano-dragon2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garv saxena" height="30" width="40" /></a>
 <a href="https://discord.gg/718363607364272198" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/03/90/87/52/360_F_390875256_XHk5oT6YkogjpG7VlJl8IKS2eTcUHEHe.webp" alt="718363607364272198" height="40" width="40" /></a>
 </p>
 
