@@ -16,8 +16,8 @@ Familiar: Javascript, C++
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/volcano-dragon2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garv saxena" height="30" width="40" /></a>
-<a href="https://discord.gg/718363607364272198" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/03/90/87/52/360_F_390875256_XHk5oT6YkogjpG7VlJl8IKS2eTcUHEHe.webp" alt="718363607364272198" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/volcano-dragon2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garv saxena" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/718363607364272198" target="blank"><img align="center" src="https://camo.githubusercontent.com/df66ab987f77a16cbb015e16611871e27de45df8b2ac42456a0072c19085941b/68747470733a2f2f706e67677269642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30352f446973636f72642d4c6f676f2d436972636c652d3130323478313032342e706e67" alt="718363607364272198" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
