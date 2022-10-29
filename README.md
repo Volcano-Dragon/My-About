@@ -1,5 +1,5 @@
 
-<img align="right" width = '650' alt="Coding" src="https://media-exp1.licdn.com/dms/image/C4D16AQGOdWAiseHmhg/profile-displaybackgroundimage-shrink_350_1400/0/1661196807738?e=1666828800&v=beta&t=oNpaS00MyR9ibqV-pvvNsesxkjvWmQyXWQgpUmjtiRU"></p>
+<img align="right" width = '650' alt="Coding" src="https://pbs.twimg.com/profile_banners/1501453049017270273/1661866332/1500x500"></p>
 <h1 align="center">Hello, I'm Garv Saxena</h1>
 
 <h4 align="center">Student | Passionate About Technology | Aspiring Software Developer</h4>
