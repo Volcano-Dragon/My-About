@@ -9,8 +9,9 @@
 
 <p align='left'>I'm more inclined toward technology, When I joined ATAL tinkering labs as a student in 9th Grade. I love spending time in the school’s computer lab and helping classmates with their computer challenges and programming-related questions. I have strong technical skills, particularly in software development and problem analysis. I enjoy solving real-world problems in an effective and creative way using technology.</p>
 
-Proficient: Python, MySQL, HTML, CSS<br>                                                                                                                        Knowledgeable: Arduino<br>
-Familiar: Javascript, C++
+Proficient: Python, MySQL<br>
+Knowledgeable: Arduino, C<br>
+Familiar: C++
 <p>
 
 
