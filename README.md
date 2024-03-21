@@ -28,9 +28,12 @@ Familiar: C++
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="blank" rel="noreferrer"> <img src="https://github.com/Volcano-Dragon/Volcano-Dragon/blob/main/Power-BI-Logo.png" alt="Power-BI" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank" rel="noreferrer"> <img src="https://github.com/Volcano-Dragon/Volcano-Dragon/blob/main/The_C_Programming_Language_logo.svg.png" alt="C-Language" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="blank" rel="noreferrer"> <img src="https://github.com/Volcano-Dragon/Volcano-Dragon/blob/main/226777.png" alt="Java" width="40" height="40"/> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Volcano-Dragon&" alt="Volcano-Dragon" /></p>
