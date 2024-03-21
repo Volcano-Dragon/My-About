@@ -1,7 +1,9 @@
 
-<img align="right" width = '650' alt="Coding" src="https://media.licdn.com/dms/image/C4D16AQGOdWAiseHmhg/profile-displaybackgroundimage-shrink_350_1400/0/1661196807738?e=1682553600&v=beta&t=euOE9zY5KjWHblsJfmAt3JSHTPOBtAz0Ug8fr2ZJwmw"></p>
-<h1 align="center">Hello👋, I'm Garv Saxena</h1>
+<img align="center" width = '1000' alt="Coding" src="https://github.com/Volcano-Dragon/Volcano-Dragon/blob/main/1661196808825.jpg"></p>
 
+
+
+<h1 align="center">Hello👋, I'm Garv Saxena</h1>
 <h4 align="center">Student | Passionate About Technology | Aspiring Software Developer</h4>
 
 <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Astronaut.png" alt="Man Astronaut" width="40" height="40" /> About Me:</h3>
@@ -17,8 +19,11 @@ Familiar: C++
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/volcano-dragon2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garv saxena" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/718363607364272198" target="blank"><img align="center" src="https://camo.githubusercontent.com/df66ab987f77a16cbb015e16611871e27de45df8b2ac42456a0072c19085941b/68747470733a2f2f706e67677269642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30352f446973636f72642d4c6f676f2d436972636c652d3130323478313032342e706e67" alt="718363607364272198" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/volcano-dragon2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin: Garv Saxena" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/718363607364272198" target="blank">
+<img align="center" src="https://github.com/Volcano-Dragon/Volcano-Dragon/blob/main/963d1e1cc39bb8d0e1f5640466c177d7.png" alt="Discord: Garv Saxena" height="40" width="40" /></a>
+<a href="mailto:garvsaxena185@gmail.com" target="blank">
+<img align="center" src="https://github.com/Volcano-Dragon/Volcano-Dragon/blob/main/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.png" alt="Gmail: Garv Saxena" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
