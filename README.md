@@ -36,5 +36,5 @@ Familiar: C++
 <a href="https://www.java.com/" target="blank" rel="noreferrer"> <img src="https://github.com/Volcano-Dragon/Volcano-Dragon/blob/main/226777.png" alt="Java" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Volcano-Dragon&" alt="Volcano-Dragon" /></p>
+[comment]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Volcano-Dragon&" alt="Volcano-Dragon" /></p>)
 
