@@ -34,6 +34,8 @@ Familiar: C++
 <a href="https://powerbi.microsoft.com/" target="blank" rel="noreferrer"> <img src="https://github.com/Volcano-Dragon/Volcano-Dragon/blob/main/Power-BI-Logo.png" alt="Power-BI" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank" rel="noreferrer"> <img src="https://github.com/Volcano-Dragon/Volcano-Dragon/blob/main/The_C_Programming_Language_logo.svg.png" alt="C-Language" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="blank" rel="noreferrer"> <img src="https://github.com/Volcano-Dragon/Volcano-Dragon/blob/main/226777.png" alt="Java" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/704087c8-f73e-48c6-a649-522c487e65f8" alt="R" width="45" height="40"/> </a>
+<a href="https://www.tableau.com/" target="blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2a18a7a9-e28f-4e89-b6ad-0620f9723dd1" alt="tableau" width="40" height="40"/> </a>
 </p>
 
 [comment]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Volcano-Dragon&" alt="Volcano-Dragon" /></p>)
